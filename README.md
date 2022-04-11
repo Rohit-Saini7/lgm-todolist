@@ -4,7 +4,6 @@
 - Functionalities of the app:
   - Add tasks
   - Mark them as complete or in progress
-  - View ongoing and completed tasks
   - Delete tasks
 - It is built in React.js
 
